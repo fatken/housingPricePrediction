@@ -1,5 +1,5 @@
 # housingPricePrediction
-Predicting housing price with linear regression.
+Predicting housing price with linear regression.  
 广州市白云区房价预测.
 
 ## data 
